@@ -1,5 +1,5 @@
 #include <stdio.h>
-main( )
+int main( )
 {
         printf("hello, 55030402\n");
 }
